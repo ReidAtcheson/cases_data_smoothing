@@ -1,4 +1,7 @@
+# Cases Data Smoothing
 
+This is an experimental technique using linear programming and some heuristics to clean up very noisy "cases per day" graphs coming from confirmed
+covid-19 cases.
 
 
 
